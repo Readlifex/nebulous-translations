@@ -74,7 +74,7 @@
 
     <string name="OK">"TAMAM"</string>
     <string name="CANCEL">"İPTAL ET"</string>
-    <string name="Chat_Name">"Sohbet Adı"</string>
+    <string name="Chat_Name">"Sohbet ismi"</string>
     <string name="Max_People">"Maksimum Kişi"</string>
     <string name="START">"BAŞLA"</string>
     <string name="CREATE">"OLUŞTUR"</string>
@@ -131,7 +131,7 @@
     <string name="CONTINUE">"DEVAM EDİN"</string>
     <string name="Global_" formatted="false">"Küresel %"</string>
     <string name="FRIEND_CHAT">"ARKADAŞINIZ İLE SOHBET"</string>
-    <string name="LOBBY_NAME">"LOBİ ADI"</string>
+    <string name="LOBBY_NAME">"LOBİ İSMİ"</string>
     <string name="NULL">"GEÇERSİZ"</string>
 
 
@@ -283,7 +283,7 @@
     <string name="CLAN">"KLAN"</string>
 
 
-    <string name="Specify_Clan_ID">"Klan ID'sini Belirtiniz."</string>
+    <string name="Specify_Clan_ID">"Klan kimliğini Belirtiniz."</string>
     <string name="Show_Clan_Names">"Klan İsimlerini Göster"</string>
     <string name="Show_Levels">"Seviyeleri Göster"</string>
     <string name="SET_MOTD">"Klanın Ön Bilgisini Kaydedin"</string>
